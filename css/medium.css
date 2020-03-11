@@ -1,0 +1,46 @@
+/* @media (min-width: 768px) {
+
+} */
+
+.nav-mobile{
+    display: none;
+}
+
+.nav-desktop{
+    display: block;
+}
+
+.nav-desktop li{
+    list-style: none;
+    display: inline-block;
+}
+
+.nav-desktop li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 30px;
+    transition: color .3s;
+}
+
+.nav-desktop li a:hover{
+    color: royalblue;
+}
+
+
+/* header */
+
+.header-text h1{
+    font-size: 46px;
+}
+
+.header-text p{
+    font-size: 20px;
+}
+
+/* main */
+
+section{
+    margin: 120px 0;
+}

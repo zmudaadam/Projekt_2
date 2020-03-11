@@ -1,0 +1,14 @@
+/* @media (min-width: 992px) {
+    
+} */
+
+.header-img{
+    background-image: url('../img/home-l.jpg');
+}
+
+/* main */
+
+.main-product{
+    margin-left: 5px;
+    width: 49%;
+}
